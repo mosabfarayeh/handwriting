@@ -97,3 +97,4 @@ class _SignUpState extends State<SignUp> {
     );
   }
 }
+// class HandwritingScreen extends StatefulWidget {

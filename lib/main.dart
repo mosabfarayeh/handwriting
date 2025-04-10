@@ -37,3 +37,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+/// This is a simple widget that displays a text field with an icon and a label.
+/// It is used for user input in the sign-up screen.  
